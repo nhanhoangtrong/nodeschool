@@ -7,6 +7,7 @@
     "concat-stream": "^1.5.2",
     "duplexer2": "^0.1.4",
     "elementary-electron": "^1.3.6",
+    "functional-javascript-workshop": "^1.0.6",
     "git-it": "^1.6.9",
     "how-to-markdown": "^1.1.3",
     "jslint": "^0.10.3",
