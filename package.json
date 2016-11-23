@@ -4,6 +4,8 @@
   "description": "This is **my persional** project for learning [**Node.js**](http://www.nodejs.org) through [**NodeSchool**](http://www.nodeschool.io)",
   "main": "index.js",
   "dependencies": {
+    "async-you": "^1.0.0",
+    "bug-clinic": "^1.1.5",
     "concat-stream": "^1.5.2",
     "currying-workshopper": "^1.0.17",
     "duplexer2": "^0.1.4",
@@ -20,6 +22,7 @@
     "tape": "^4.6.3",
     "tar": "^2.2.1",
     "test-anything": "^1.1.7",
+    "thinking-in-react": "^3.1.2",
     "through2": "^2.0.1",
     "through2-map": "^3.0.0",
     "tower-of-babel": "^0.8.0",
