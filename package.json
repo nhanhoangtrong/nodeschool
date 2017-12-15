@@ -16,6 +16,8 @@
     "git-it": "^1.6.9",
     "how-to-markdown": "^1.1.3",
     "jslint": "^0.10.3",
+    "lodash": "^4.17.4",
+    "lololodash": "^0.9.0",
     "scope-chains-closures": "^1.0.4",
     "split": "^1.0.0",
     "stream-adventure": "^4.0.5",
