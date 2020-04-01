@@ -30,7 +30,7 @@
     "through2-map": "^3.0.0",
     "tower-of-babel": "^0.8.0",
     "trumpet": "^1.7.2",
-    "websocket-stream": "^3.3.0"
+    "websocket-stream": "^5.5.2"
   },
   "devDependencies": {},
   "scripts": {
