@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "async": "^2.1.4",
-    "async-you": "^1.0.0",
+    "async-you": "^2.0.0",
     "bug-clinic": "^1.1.5",
     "concat-stream": "^1.5.2",
     "currying-workshopper": "^1.0.17",
