@@ -30,11 +30,14 @@
     "through2-map": "^3.0.0",
     "tower-of-babel": "^0.8.0",
     "trumpet": "^1.7.2",
-    "websocket-stream": "^3.3.0"
+    "websocket-stream": "^3.3.0",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -45,5 +48,6 @@
   "bugs": {
     "url": "https://github.com/siege250294/nodeschool/issues"
   },
-  "homepage": "https://github.com/siege250294/nodeschool#readme"
+  "homepage": "https://github.com/siege250294/nodeschool#readme",
+  "snyk": true
 }
