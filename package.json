@@ -20,7 +20,7 @@
     "lololodash": "^0.9.0",
     "scope-chains-closures": "^1.0.4",
     "split": "^1.0.0",
-    "stream-adventure": "^4.0.5",
+    "stream-adventure": "^4.2.1",
     "stream-combiner": "^0.2.2",
     "tape": "^4.6.3",
     "tar": "^2.2.1",
